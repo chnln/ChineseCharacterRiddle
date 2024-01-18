@@ -2,8 +2,6 @@
 
 using Sentence-Transformers + data augmentation to answer Chinese Character Riddles
 
-[TOC]
-
 ## 1 数据集介绍
 
 本次作业需要模型对于给定谜面给出对应的谜底，允许给出最多top-5的结果。如“借才生财”的谜底是“贝”。
