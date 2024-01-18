@@ -1,6 +1,7 @@
 # Semantic Computing and Knowledge Retrieval HW3
 
-using Sentence-Transformers + data augmentation to answer Chinese Character Riddles
+SCKR 2022 Spring HW3
+using Sentence-Transformers + data augmentation to tackle Chinese Character Riddles
 
 ## 1 数据集介绍
 
